@@ -12,6 +12,11 @@ The script performs the following actions:
 
 3. **Splits WAV File (External Tool):**  While this script *generates* the CUE sheet, it does *not* perform the actual WAV file splitting.  You would typically use a tool like `cuetools` (or similar software) along with the generated CUE sheet to split your long WAV file.
 
+## Pre
+```bash 
+pip install requests
+pip install BeautifulSoup4
+
 ## Usage
 
 ```bash
