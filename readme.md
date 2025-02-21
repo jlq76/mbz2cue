@@ -16,6 +16,7 @@ The script performs the following actions:
 ```bash 
 pip install requests
 pip install BeautifulSoup4
+```
 
 ## Usage
 
